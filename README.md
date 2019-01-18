@@ -33,4 +33,4 @@ Finally, a machine learning approach to building recommendations. Using the user
 
 * VI. Extras & Concluding (Under Construction)
 
-Flash App.
+Flask App.
